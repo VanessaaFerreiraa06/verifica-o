@@ -1,2 +1,2 @@
 # verifica-o
-verificação
+Quantidade-de-numeros-primos
